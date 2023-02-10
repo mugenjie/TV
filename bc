@@ -135,11 +135,10 @@ CHC动作,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__
 CHC家庭,http://15.4.8.199:5678/gehua.php?id=chcjt
 CHC家庭,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 1905,http://15.4.8.199:5678/1905.php
-高清电影,http://15.4.8.199:5678/4kdy.php
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 五星影院,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-怀旧影院,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8
+怀旧影院,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8
 收视冠军,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
 
 
@@ -153,7 +152,7 @@ CHC家庭,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 鹿鼎记,http://15.4.8.199:35455/huya/23865080
 炊事班的故事,http://15.4.8.199:35455/huya/19524135
 陈翔六点半,http://15.4.8.199:35455/huya/11274154
-胡八一胖子沙漠古城找鬼洞,http://15.4.8.199:35455/huya/11352871
+鬼吹灯,http://15.4.8.199:35455/huya/11352871
 倚天屠龙记,http://15.4.8.199:35455/huya/11342403
 天龙八部,http://15.4.8.199:35455/huya/23903123
 康熙王朝,http://15.4.8.199:35455/huya/11352940
@@ -236,12 +235,12 @@ CHC家庭,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 武侠剧,http://15.4.8.199:35455/douyu/7655471
 
 刘德华,http://15.4.8.199:35455/douyu/2516864
-刘德华,http://15.4.8.199:35455/douyu/8985415
 刘德华,http://15.4.8.199:35455/douyu/2516864
 成龙,http://15.4.8.199:35455/douyu/3379942
 赌神电影,http://15.4.8.199:35455/douyu/4346416
 邦德影院,http://15.4.8.199:35455/douyu/9292499
-周末影院,http://15.4.8.199:35455/douyu/3637765
+少年的你,http://15.4.8.199:35455/douyu/8985415
+少年的你,http://15.4.8.199:35455/douyu/3637765
 特辑影院,http://15.4.8.199:35455/douyu/3637778
 漫威影片,http://15.4.8.199:35455/douyu/6140589
 喜剧经典,http://15.4.8.199:35455/douyu/9650887
@@ -254,9 +253,6 @@ CHC家庭,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__
 港式恐怖,http://15.4.8.199:35455/douyu/3637726
 译制影片,http://15.4.8.199:35455/douyu/2436390
 随机播放,http://15.4.8.199:35455/douyu/4105989
-斗鱼电影,http://15.4.8.199:35455/douyu/10395991
-斗鱼电影,http://15.4.8.199:35455/douyu/10395937
-斗鱼电影,http://15.4.8.199:35455/douyu/10395989
 
 4K,#genre#
 
@@ -304,17 +300,13 @@ CCTV16-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__
 中华小当家,http://15.4.8.199:35455/huya/11342413
 
 
-猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 猫和老鼠,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-名侦探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+名侦探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 倒霉熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-怀旧动画,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 经典动画,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
+动画电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 
 游戏,#genre#
 
@@ -332,7 +324,7 @@ CSGO,http://15.4.8.199:35455/huya/483917
 游戏风云,https://live.v1.mk/api/ghyx.php?id=YouXiFengYunHD_6000
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 游戏风云,https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
-亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
+亲子小游戏,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 
 娱乐,#genre#
 
@@ -365,4 +357,26 @@ RM刘在石李光洙跑男,http://15.4.8.199:35455/huya/11336725
 小姐姐,http://15.4.8.199:35455/douyu/8901218
 
 测试,#genre#
+
 蜡笔小新,http://15.4.8.199:35455/bilibili/10375360
+蜡笔小新,http://15.4.8.199:35455/bilibili/26631712
+蜡笔小新,http://15.4.8.199:35455/bilibili/26329057
+林正英,http://15.4.8.199:35455/bilibili/193
+炊事班的故事,http://15.4.8.199:35455/bilibili/26812469
+炊事班的故事,http://15.4.8.199:35455/bilibili/24458911
+三国演义,http://15.4.8.199:35455/bilibili/202427
+猫和老鼠,http://15.4.8.199:35455/bilibili/1024814
+猫和老鼠,http://15.4.8.199:35455/bilibili/26781413
+猫和老鼠,http://15.4.8.199:35455/bilibili/3195891
+法证先锋,http://15.4.8.199:35455/bilibili/13751575
+猫和老鼠 兔八哥 达菲鸭,http://15.4.8.199:35455/bilibili/5977175
+铁甲小宝,http://15.4.8.199:35455/bilibili/26861182
+哆啦A梦,http://15.4.8.199:35455/bilibili/2686118
+不知,http://15.4.8.199:35455/bilibili/29236956
+动画版四大名著,http://15.4.8.199:35455/bilibili/27004210
+光能使者/魔动王,http://15.4.8.199:35455/bilibili/8947467
+虹猫蓝兔七侠传,http://15.4.8.199:35455/bilibili/26664634
+王者荣耀,http://15.4.8.199:35455/bilibili/55
+第五人格,http://15.4.8.199:35455/bilibili/5555
+JJ斗地主,http://15.4.8.199:35455/bilibili/22021983
+永劫无间,http://15.4.8.199:35455/bilibili/30
