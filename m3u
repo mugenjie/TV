@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/爱奇艺.png" group-title="电视剧",收视冠军
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="电视剧",法证先锋
 http://15.4.8.199:35455/bilibili/13751575
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="电视剧",炊事班的故事
@@ -62,6 +63,7 @@ http://15.4.8.199:35455/huya/11342420
 http://15.4.8.199:35455/huya/11342397
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="电视剧",三国演义
 http://15.4.8.199:35455/huya/11602081
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电视剧",康熙王朝
 http://15.4.8.199:35455/douyu/9650836
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电视剧",洗冤录
@@ -92,14 +94,14 @@ http://15.4.8.199:35455/douyu/7655471
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",1905
 http://15.4.8.199:5678/1905.php
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/CHC高清电影.png" group-title="电影轮播",CHC高清
 http://15.4.8.199:5678/gehua.php?id=chcgqhd
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/CHC动作电影.png" group-title="电影轮播",CHC动作
 http://15.4.8.199:5678/gehua.php?id=chcdz
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/CHC家庭影院.png" group-title="电影轮播",CHC家庭
 http://15.4.8.199:5678/gehua.php?id=chcjt
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/爱奇艺.png" group-title="电影轮播",票房电影
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
@@ -205,7 +207,6 @@ http://15.4.8.199:35455/huya/11336590
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="电影轮播",我的宝贝baby
 http://15.4.8.199:35455/huya/11352880
 
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",刘德华
 http://15.4.8.199:35455/douyu/2516864
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",刘德华
@@ -249,43 +250,53 @@ http://15.4.8.199:35455/douyu/4105989
 http://15.4.8.199:35455/bilibili/193
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV-4K1
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影解说",牛叔电影节说
+http://15.4.8.199:35455/douyu/2758565
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影解说",牛叔电影节说
+http://15.4.8.199:35455/douyu/10010651
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影解说",来呀官人，都是你的梦
+http://15.4.8.199:35455/douyu/9986305
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影解说",科幻Fans
+http://15.4.8.199:35455/douyu/3508304
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K1
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV-4K2
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K2
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV-4K3
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K3
 http://15.4.8.199:5678/cctv4k.php
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV-4K4
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K4
 http://15.4.8.199:5678/cctv4k2.php
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV-4K5
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K5
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV-4K6
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K6
 http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV16-4K1
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV16-4K1
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV16-4K2
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV16-4K2
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV16-4K3
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV16-4K3
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",CCTV16-4K4
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV16-4K4
 http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",苏州4K
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",欢笑剧场4K1
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",欢笑剧场4K1
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",欢笑剧场4K2
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",欢笑剧场4K2
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",欢笑剧场4K3
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",欢笑剧场4K3
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",欢笑剧场4K4
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",欢笑剧场4K4
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",爱上4K
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",北京IPTV-4K
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",北京IPTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",爱自然
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="4K超高清",歌华导视
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",歌华导视
 https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 
 
@@ -311,7 +322,6 @@ http://15.4.8.199:35455/douyu/2925610
 http://15.4.8.199:35455/douyu/9401305
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="动漫",草帽丶海贼团的直播间
 http://15.4.8.199:35455/douyu/997925
-
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="动漫",一人之下
 http://15.4.8.199:35455/huya/11602065
@@ -356,9 +366,9 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t1
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/爱奇艺.png" group-title="动漫",动画电影
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",英雄联盟
 http://15.4.8.199:35455/douyu/288016
-
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="游戏",英雄联盟
 http://15.4.8.199:35455/huya/660000
@@ -379,7 +389,6 @@ http://15.4.8.199:35455/huya/11718629
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="游戏",第五人格
 http://15.4.8.199:35455/huya/461698
 
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="游戏",王者荣耀
 http://15.4.8.199:35455/bilibili/55
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="游戏",第五人格
@@ -389,27 +398,26 @@ http://15.4.8.199:35455/bilibili/22021983
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/哔哩.png" group-title="游戏",永劫无间
 http://15.4.8.199:35455/bilibili/30
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏2.png" group-title="游戏",游戏风云
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏风云.png" group-title="游戏",游戏风云
 http://15.4.8.199:5678/gehua.php?id=yxfy
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏2.png" group-title="游戏",游戏风云
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏风云.png" group-title="游戏",游戏风云
 https://live.v1.mk/api/ghyx.php?id=YouXiFengYunHD_6000
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏2.png" group-title="游戏",游戏风云
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏风云.png" group-title="游戏",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏2.png" group-title="游戏",游戏风云
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏风云.png" group-title="游戏",游戏风云
 https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/游戏2.png" group-title="游戏",亲子小游戏
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",法外狂徒张三李四
-http://15.4.8.199:35455/huya/11601965
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="娱乐",乐高大师赛！创意惊人
-http://15.4.8.199:35455/huya/26355776
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="娱乐",陈佩斯朱时茂小品
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",陈佩斯朱时茂小品
 http://15.4.8.199:35455/huya/20985776
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",RM刘在石李光洙跑男
 http://15.4.8.199:35455/huya/11336725
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",极限挑战
 http://15.4.8.199:35455/huya/11352914
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",乐高大师赛！创意惊人
+http://15.4.8.199:35455/huya/26355776
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",狼人游戏，悍狼冲车
 http://15.4.8.199:35455/huya/26355807
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="综艺",铁骨铮铮的好狼啊！老毕高血压名场面
@@ -423,35 +431,26 @@ http://15.4.8.199:35455/douyu/9236042
 http://15.4.8.199:35455/douyu/7620081
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",开心锤锤
 http://15.4.8.199:35455/douyu/9018297
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",开心锤锤
-http://15.4.8.199:35455/douyu/9018297
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影",牛叔电影节说
-http://15.4.8.199:35455/douyu/2758565
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影",牛叔电影节说
-http://15.4.8.199:35455/douyu/10010651
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影",来呀官人，都是你的梦
-http://15.4.8.199:35455/douyu/9986305
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="电影",科幻Fans
-http://15.4.8.199:35455/douyu/3508304
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",荒野建造者
-http://15.4.8.199:35455/douyu/9611578
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",科比、乔丹去
-http://15.4.8.199:35455/douyu/8434598
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普HD1
-http://15.4.8.199:35455/douyu/9317739
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普HD2
-http://15.4.8.199:35455/douyu/9447974
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普HD3
-http://15.4.8.199:35455/douyu/9369468
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普HD4
-http://15.4.8.199:35455/douyu/9385288
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普HD5
-http://15.4.8.199:35455/douyu/8434598
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普HD6
-http://15.4.8.199:35455/douyu/7357786
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",老高与小莱
-http://15.4.8.199:35455/douyu/838632
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",斗鱼科普5
-http://15.4.8.199:35455/douyu/9412981
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="综艺",小姐姐
 http://15.4.8.199:35455/douyu/8901218
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="科普",法外狂徒张三李四
+http://15.4.8.199:35455/huya/11601965
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普HD1
+http://15.4.8.199:35455/douyu/9317739
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普HD2
+http://15.4.8.199:35455/douyu/9447974
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普HD3
+http://15.4.8.199:35455/douyu/9369468
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普HD4
+http://15.4.8.199:35455/douyu/9385288
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普HD5
+http://15.4.8.199:35455/douyu/8434598
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普HD6
+http://15.4.8.199:35455/douyu/7357786
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",老高与小莱
+http://15.4.8.199:35455/douyu/838632
+#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/斗鱼.png" group-title="科普",斗鱼科普5
+http://15.4.8.199:35455/douyu/9412981
