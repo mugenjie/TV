@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/爱奇艺.png" group-title="电视剧",收视冠军
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/mugenjie/TV/main/png/虎牙.png" group-title="电视剧",第八号当铺
 https://epg.112114.xyz/huya/21059568
