@@ -88,6 +88,8 @@ http://15.4.8.199:35455/douyu/7784862
 http://15.4.8.199:35455/douyu/3395113
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电视剧",武侠剧
 http://15.4.8.199:35455/douyu/7655471
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="电视剧",歌华导视
+https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",1905
@@ -292,8 +294,6 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",歌华导视
-https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="动漫",名侦探柯南
