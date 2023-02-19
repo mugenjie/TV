@@ -86,8 +86,6 @@ http://15.4.8.100:35455/douyu/7784862
 http://15.4.8.100:35455/douyu/3395113
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电视剧",武侠剧
 http://15.4.8.100:35455/douyu/7655471
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="电视剧",歌华导视
-https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",1905
