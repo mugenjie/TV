@@ -6,8 +6,6 @@ http://15.4.8.100:35455/bilibili/13751575
 http://15.4.8.100:35455/bilibili/26812469
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="电视剧",炊事班的故事
 http://15.4.8.100:35455/bilibili/24458911
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="电视剧",三国演义
-http://15.4.8.100:35455/bilibili/202427
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/虎牙.png" group-title="电视剧",第八号当铺
 http://15.4.8.100:35455/huya/21059568
@@ -93,15 +91,15 @@ https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",1905
-http://15.4.8.199:5678/1905.php
+http://15.4.8.100:5678/1905.php
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/轮播电影.png" group-title="电影轮播",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/CHC高清电影.png" group-title="电影轮播",CHC高清
-http://15.4.8.199:5678/gehua.php?id=chcgqhd
+http://15.4.8.100:5678/gehua.php?id=chcgqhd
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/CHC动作电影.png" group-title="电影轮播",CHC动作
-http://15.4.8.199:5678/gehua.php?id=chcdz
+http://15.4.8.100:5678/gehua.php?id=chcdz
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/CHC家庭影院.png" group-title="电影轮播",CHC家庭
-http://15.4.8.199:5678/gehua.php?id=chcjt
+http://15.4.8.100:5678/gehua.php?id=chcjt
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/爱奇艺.png" group-title="电影轮播",票房电影
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
@@ -211,18 +209,12 @@ http://15.4.8.100:35455/huya/11352880
 http://15.4.8.100:35455/douyu/2516864
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",刘德华
 http://15.4.8.100:35455/douyu/2516864
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",成龙
-http://15.4.8.100:35455/douyu/3379942
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",赌神电影
-http://15.4.8.100:35455/douyu/4346416
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",邦德影院
 http://15.4.8.100:35455/douyu/9292499
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",少年的你
 http://15.4.8.100:35455/douyu/8985415
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",少年的你
 http://15.4.8.100:35455/douyu/3637765
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",特辑影院
-http://15.4.8.100:35455/douyu/3637778
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",漫威影片
 http://15.4.8.100:35455/douyu/6140589
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="电影轮播",喜剧经典
@@ -265,9 +257,9 @@ http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K2
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K3
-http://15.4.8.199:5678/cctv4k.php
+http://15.4.8.100:5678/cctv4k.php
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K4
-http://15.4.8.199:5678/cctv4k2.php
+http://15.4.8.100:5678/cctv4k2.php
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K5
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/4K1.png" group-title="4K超高清",CCTV-4K6
@@ -308,8 +300,6 @@ http://15.4.8.100:35455/douyu/7888428
 http://15.4.8.100:35455/douyu/6610883
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="动漫",童年往事
 http://15.4.8.100:35455/douyu/7256376
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="动漫",灌篮高手漫画
-http://15.4.8.100:35455/douyu/9837291
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="动漫",中华小当家
 http://15.4.8.100:35455/douyu/8231658
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="动漫",茶啊二中
@@ -340,8 +330,6 @@ http://15.4.8.100:35455/bilibili/1024814
 http://15.4.8.100:35455/bilibili/3195891
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="动漫",猫和老鼠 兔八哥 达菲鸭
 http://15.4.8.100:35455/bilibili/5977175
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="动漫",铁甲小宝
-http://15.4.8.100:35455/bilibili/26861182
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="动漫",蜡笔小新
 http://15.4.8.100:35455/bilibili/26631712
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="动漫",蜡笔小新
@@ -355,16 +343,13 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t1
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/爱奇艺.png" group-title="动漫",怀旧动画
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="动漫",经典动画
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/爱奇艺.png" group-title="动漫",经典动画
 http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/爱奇艺.png" group-title="动漫",动画小天地
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/爱奇艺.png" group-title="动漫",动画电影
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
 
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",英雄联盟
-http://15.4.8.100:35455/douyu/288016
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/虎牙.png" group-title="游戏",英雄联盟
 http://15.4.8.100:35455/huya/660000
@@ -391,8 +376,6 @@ http://15.4.8.100:35455/bilibili/55
 http://15.4.8.100:35455/bilibili/5555
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="游戏",JJ斗地主
 http://15.4.8.100:35455/bilibili/22021983
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="游戏",永劫无间
-http://15.4.8.100:35455/bilibili/30
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/游戏风云.png" group-title="游戏",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
