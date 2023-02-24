@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/香港HKS.png" group-title="香港凤凰",香港HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/凤凰中文.png" group-title="香港凤凰",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/凤凰资讯.png" group-title="香港凤凰",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="电视剧",埋堆堆
 http://15.4.8.11:35455/bilibili/13751575
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="电视剧",1炊事班的故事
@@ -378,6 +371,12 @@ http://15.4.8.11:35455/huya/660219
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/虎牙.png" group-title="游戏",JJ斗地主
 http://15.4.8.11:35455/huya/14079954
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",永劫无间
+http://15.4.8.11:35455/douyu/10005153
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",跑跑卡丁车1
+http://15.4.8.11:35455/douyu/7722576
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",跑跑卡丁车2
+http://15.4.8.11:35455/douyu/6672862
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",王者荣耀甲级职业联赛
 http://15.4.8.11:35455/douyu/1984839
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",激战2官方直播间
@@ -387,6 +386,8 @@ http://15.4.8.11:35455/douyu/5040227
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/斗鱼.png" group-title="游戏",英雄联盟手游赛事
 http://15.4.8.11:35455/douyu/33
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="游戏",CSGO
+http://15.4.8.11:35455/bilibili/34
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="游戏",王者荣耀
 http://15.4.8.11:35455/bilibili/55
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.iqiq.io/mugenjie/TV/main/png/哔哩.png" group-title="游戏",第五人格
