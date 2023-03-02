@@ -1,4 +1,23 @@
 央视,#genre#
+
+CCTV1,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
+CCTV2,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
+CCTV3,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
+CCTV4,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
+CCTV5,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
+CCTV6,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
+CCTV7,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
+CCTV8,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
+CCTV9,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
+CCTV10,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv10hd/3000/index.m3u8?&encrypt=
+CCTV11,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
+CCTV12,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
+CCTV14,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+CCTV15,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
+CCTV17,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
+CCTV5+,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
+
+
 CCTV1,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV3,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
@@ -41,6 +60,8 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+
+
 CCTV6,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
 CCTV7,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
 CCTV8,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
@@ -55,27 +76,12 @@ CCTV17,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/i
 CCTV5+,http://121.51.249.73/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 
 
-CCTV1,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
-CCTV2,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
-CCTV3,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
-CCTV4,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
-CCTV5,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
-CCTV6,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
-CCTV7,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
-CCTV8,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
-CCTV9,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
-CCTV10,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv10hd/3000/index.m3u8?&encrypt=
-CCTV11,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
-CCTV12,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
-CCTV14,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
-CCTV15,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
-CCTV17,http://1.189.99.196/h5liveolpicga.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
-CCTV5+,http://1.189.99.196/h5liveolpicga.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
+
 CCTV1,http://220.178.228.153:1935/live/cctv1/playlist.m3u8
-CCTV5+,http://220.178.228.153:1935/live/cctv5/playlist.m3u8
-CCTV13,http://220.178.228.153:1935/live/cctv13/playlist.m3u8
 CCTV5,https://qsxw.gov.cn/rtmp_export/video33.m3u8
 CCTV6,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE2OR14O20ADLYU/index.m3u8
+CCTV5+,http://220.178.228.153:1935/live/cctv5/playlist.m3u8
+CCTV13,http://220.178.228.153:1935/live/cctv13/playlist.m3u8
 CCTV17,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
 
 
@@ -239,5 +245,3 @@ SiTV游戏风云,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c
 CHC高清电影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
