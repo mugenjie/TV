@@ -1,9 +1,9 @@
 {"urls":[
-{"url":"https://raw.iqiq.io/mugenjie/tvbox/main/ysc.json","name":"52670576-ysc"},
+{"url":"https://52670576.github.io/tvbox/ysc.json","name":"52670576-ysc"},
 {"url":"https://raw.iqiq.io/mugenjie/gao/master/0820.json","name":"gao-0820"},
 {"url":"https://raw.iqiq.io/mugenjie/gao/master/0826.json","name":"gao-0826"},
-{"url":"https://raw.iqiq.io/mugenjie/gao/master/0828.json","name":"gao-0828"},
-{"url":"https://raw.iqiq.io/mugenjie/gao/master/XYQ.json","name":"gao-XYQ"},
+{"url":"https://raw.iqiq.io/mugenjie/gao/master/js.json","name":"gao-js"},
+{"url":"https://raw.iqiq.io/mugenjie/gao/master/js1.json","name":"gao-js1"},
 {"url":"https://raw.iqiq.io/mugenjie/gao/master/xBPQ.json","name":"gao-xBPQ"},
-{"url":"https://raw.iqiq.io/mugenjie/gao/master/js.json","name":"gao-js"}
+{"url":"https://raw.iqiq.io/mugenjie/tvbox-1/main/hccx.json","name":"HeChengChaXiu-hccx"}
 ]}
