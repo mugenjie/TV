@@ -1,9 +1,14 @@
 {"urls":[
 {"url":"https://52670576.github.io/tvbox/ysc.json","name":"52670576-ysc"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/mugenjie/gao/master/0820.json","name":"gao-0820"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/mugenjie/gao/master/0826.json","name":"gao-0826"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/mugenjie/gao/master/js.json","name":"gao-js"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/mugenjie/gao/master/js1.json","name":"gao-js1"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/mugenjie/gao/master/xBPQ.json","name":"gao-xBPQ"},
-{"url":"https://ghproxy.com/raw.githubusercontent.com/mugenjie/tvbox-1/main/hccx.json","name":"HeChengChaXiu-hccx"}
+{"url":"https://raw.gitmirror.com/cyao2q/files/master/m.json","name":"cyao2q-m"},
+{"url":"https://raw.gitmirror.com/cyao2q/files/master/n.json","name":"cyao2q-n"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0820.json","name":"gao-0820"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0826.json","name":"gao-0826"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/js.json","name":"gao-js"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/XYQ.json","name":"gao-XYQ"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/xBPQ.json","name":"gao-xBPQ"},
+{"url":"https://raw.gitmirror.com/mugenjie/tvbox-1/main/hccx.json","name":"HeChengChaXiu-hccx"},
+{"url": "https://gitee.com/lekanbox/App/raw/master/ali.json","name": "阿里无敌"},
+{"url": "http://rul2oe7c4.bkt.clouddn.com/ysc.json","name": "运输车国内"},
+{"url": "https://weixine.net/ysc.json","name": "运输车主线"}
 ]}
