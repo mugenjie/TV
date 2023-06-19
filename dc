@@ -6,7 +6,9 @@
 {"url":"https://raw.gitmirror.com/mugenjie/tvbox-3/main/mx.json","name":"bluefriendCN-mx"},
 //{"url":"https://raw.gitmirror.com/mugenjie/tvbox-3/main/my.json","name":"bluefriendCN-my"},
 {"url":"https://raw.gitmirror.com/mugenjie/gao/master/0821.json","name":"gao-0821"},
-{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0826.json","name":"gao-0826"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0821.json","name":"gao-0826"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0821.json","name":"gao-0827"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0826.json","name":"gao-0828"},
 {"url":"https://raw.gitmirror.com/mugenjie/gao/master/js.json","name":"gao-js"},
 {"url":"https://raw.gitmirror.com/mugenjie/gao/master/XYQ.json","name":"gao-XYQ"},
 {"url":"https://raw.gitmirror.com/mugenjie/gao/master/xBPQ.json","name":"gao-xBPQ"}
