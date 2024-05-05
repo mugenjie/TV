@@ -8,5 +8,15 @@
 {"url":"http://xhww.fun/小米/DEMO.json","name":"小米"},
 {"url":"https://www.yingm.cc/dm/dm.json","name":"动画片"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
-{"url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt","name":"OK"}
+{"url":"https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt","name":"OK"},
+{"url":"https://raw.gitmirror.com/mugenjie/tvbox-3/main/my.json","name":"bluefriendCN-my"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0821.json","name":"gao-0821"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0825.json","name":"gao-0825"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0826.json","name":"gao-0826"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/0827.json","name":"gao-0827"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/dianshi.json","name":"gao-dianshi"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/js.json","name":"gao-js"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/jsm.json","name":"gao-jsm"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/XBPQ.json","name":"gao-XBPQ"},
+{"url":"https://raw.gitmirror.com/mugenjie/gao/master/XYQ.json","name":"gao-XYQ"}
 ]}
