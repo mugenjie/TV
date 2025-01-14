@@ -1,0 +1,15 @@
+{"urls":[
+{"url":"http://肥猫.com/","name":"肥猫"},
+{"url":"http://ok321.top/tv","name":"OK"},
+{"url":"https://100km.top/0","name":"纯一"},
+{"url":"http://www.饭太硬.com/tv/","name":"饭太硬"},
+{"url":"https://www.yingm.cc/dm/dm.json","name":"动画片"},
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
+{"url":"http://xhztv.top/xhz/","name":"小盒子"},
+
+{"url":"http://dsm.dylove.xyz:8786/https://raw.githubusercontent.com//mugenjie/tvbox-3/main/mf.json","name":"bluefriendCN-mf"},
+{"url":"http://dsm.dylove.xyz:8786/https://raw.githubusercontent.com//mugenjie/gao/master/0821.json","name":"gao-0821"},
+{"url":"http://dsm.dylove.xyz:8786/https://raw.githubusercontent.com//mugenjie/gao/master/0826.json","name":"gao-0826"},
+{"url":"http://dsm.dylove.xyz:8786/https://raw.githubusercontent.com//mugenjie/gao/master/dianshi.json","name":"gao-dianshi"},
+{"url":"http://dsm.dylove.xyz:8786/https://raw.githubusercontent.com//mugenjie/gao/master/jsm.json","name":"gao-jsm"}
+]}
